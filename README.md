@@ -48,4 +48,11 @@ This project uses your **webcam** to detect hand gestures in real-time and launc
 - Subprocess (for app control)
 
 ---
+## ⚠️⚠️⚠️ attention
+The project is not meant to be cloned and used. Documentation is available and it would be better to refer the docs to recreate this project.
+The program uses task=kill to terminate programs, which may pose security concerns to some
+### Prerequisites
+- must have notepad installed. (or use the command for an exe file (launchable))
+---
+
 
